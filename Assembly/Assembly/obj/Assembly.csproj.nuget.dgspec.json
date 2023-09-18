@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\Advanced C#\\Assembly\\Assembly\\Assembly\\Assembly.csproj": {}
+    "D:\\.NET\\Advanced C#\\Assembly\\D2Repo\\Assembly\\Assembly\\Assembly.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\Advanced C#\\Assembly\\Assembly\\Assembly\\Assembly.csproj": {
+    "D:\\.NET\\Advanced C#\\Assembly\\D2Repo\\Assembly\\Assembly\\Assembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\Advanced C#\\Assembly\\Assembly\\Assembly\\Assembly.csproj",
+        "projectUniqueName": "D:\\.NET\\Advanced C#\\Assembly\\D2Repo\\Assembly\\Assembly\\Assembly.csproj",
         "projectName": "Assembly",
-        "projectPath": "D:\\.NET\\Advanced C#\\Assembly\\Assembly\\Assembly\\Assembly.csproj",
+        "projectPath": "D:\\.NET\\Advanced C#\\Assembly\\D2Repo\\Assembly\\Assembly\\Assembly.csproj",
         "packagesPath": "C:\\Users\\EL-YaMaMa\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\Advanced C#\\Assembly\\Assembly\\Assembly\\obj\\",
+        "outputPath": "D:\\.NET\\Advanced C#\\Assembly\\D2Repo\\Assembly\\Assembly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
