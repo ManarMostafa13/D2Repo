@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Assembly",
-    "\\Assembly\\Assembly",
-    "\\Assembly\\Assembly\\order",
-    "\\Assembly\\Assembly\\User"
+    "\\Assembly\\Assembly"
   ],
-  "SelectedNode": "\\Assembly",
+  "SelectedNode": "\\Assembly\\Assembly\\userorder.cs",
   "PreviewInSolutionExplorer": false
 }
